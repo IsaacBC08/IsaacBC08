@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollo proyectos pequeños / medianos que solucionan problemas específicos <br>Ideo soluciones productivas y eficientes a problemas complejos <br>Actualmente estudiando "Técnico en configuración y soporte a redes de comunicación y sistemas operativos "<br>Me gusta programar como una manera de pasar el tiempo pensando <br>
+<br>Actualmente estudiando "Técnico en configuración y soporte a redes de comunicación y sistemas operativos "<br>Me gusta programar como una manera de pasar el tiempo pensando <br>
 
 
 ## 🌐 Socials:
