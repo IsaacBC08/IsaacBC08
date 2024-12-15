@@ -10,7 +10,7 @@ Actualmente: Desarrollador Full-Stack Para el CTTP<br>Estudiando: Técnico en re
 # 📊 Estadisticas:
 ![](https://github-readme-stats.vercel.app/api?username=IsaacBC08&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IsaacBC08&theme=ayu-mirage&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBC08)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 🏆 GitHub Trophies
